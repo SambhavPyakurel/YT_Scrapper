@@ -1,1 +1,1 @@
-Couldn't manage credit card for AWS so, there is no UI. Sorry for the inconvinience.
+Edit "YOUR_API_KEY" and "CHANNEL_ID" with your youtube API key and channel Id can be any channel ID.
